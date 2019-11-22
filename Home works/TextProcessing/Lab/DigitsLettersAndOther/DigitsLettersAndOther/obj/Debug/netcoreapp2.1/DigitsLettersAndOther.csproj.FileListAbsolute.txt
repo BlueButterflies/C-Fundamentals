@@ -1,0 +1,11 @@
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Digits, Letters and Other\DigitsLettersAndOther\DigitsLettersAndOther\obj\Debug\netcoreapp2.1\DigitsLettersAndOther.csprojAssemblyReference.cache
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Digits, Letters and Other\DigitsLettersAndOther\DigitsLettersAndOther\obj\Debug\netcoreapp2.1\DigitsLettersAndOther.csproj.CoreCompileInputs.cache
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Digits, Letters and Other\DigitsLettersAndOther\DigitsLettersAndOther\obj\Debug\netcoreapp2.1\DigitsLettersAndOther.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Digits, Letters and Other\DigitsLettersAndOther\DigitsLettersAndOther\obj\Debug\netcoreapp2.1\DigitsLettersAndOther.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Digits, Letters and Other\DigitsLettersAndOther\DigitsLettersAndOther\bin\Debug\netcoreapp2.1\DigitsLettersAndOther.deps.json
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Digits, Letters and Other\DigitsLettersAndOther\DigitsLettersAndOther\bin\Debug\netcoreapp2.1\DigitsLettersAndOther.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Digits, Letters and Other\DigitsLettersAndOther\DigitsLettersAndOther\bin\Debug\netcoreapp2.1\DigitsLettersAndOther.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Digits, Letters and Other\DigitsLettersAndOther\DigitsLettersAndOther\bin\Debug\netcoreapp2.1\DigitsLettersAndOther.dll
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Digits, Letters and Other\DigitsLettersAndOther\DigitsLettersAndOther\bin\Debug\netcoreapp2.1\DigitsLettersAndOther.pdb
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Digits, Letters and Other\DigitsLettersAndOther\DigitsLettersAndOther\obj\Debug\netcoreapp2.1\DigitsLettersAndOther.dll
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Digits, Letters and Other\DigitsLettersAndOther\DigitsLettersAndOther\obj\Debug\netcoreapp2.1\DigitsLettersAndOther.pdb

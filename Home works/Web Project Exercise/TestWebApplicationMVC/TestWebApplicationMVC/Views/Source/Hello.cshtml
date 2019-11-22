@@ -1,0 +1,24 @@
+﻿
+@{
+ViewData["Title"] = "Hello";
+
+int Sum(int numOne, int numTwo)
+{
+    return numOne + numTwo;
+}
+}
+
+<h1>Hello</h1>
+
+<p>
+    Hi, I'm Source Controller with view Hello.
+</p>
+
+<div>
+This is random numbers: <b>@ViewBag.Rand</b>
+</div>
+<div>
+Sum of random and sum: <b>@Sum(ViewBag.Rand, 5)</b>
+</div>
+
+

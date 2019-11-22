@@ -1,0 +1,11 @@
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Ascii Sumator\AsciiSumator\AsciiSumator\bin\Debug\netcoreapp2.1\AsciiSumator.deps.json
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Ascii Sumator\AsciiSumator\AsciiSumator\bin\Debug\netcoreapp2.1\AsciiSumator.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Ascii Sumator\AsciiSumator\AsciiSumator\bin\Debug\netcoreapp2.1\AsciiSumator.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Ascii Sumator\AsciiSumator\AsciiSumator\bin\Debug\netcoreapp2.1\AsciiSumator.dll
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Ascii Sumator\AsciiSumator\AsciiSumator\bin\Debug\netcoreapp2.1\AsciiSumator.pdb
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Ascii Sumator\AsciiSumator\AsciiSumator\obj\Debug\netcoreapp2.1\AsciiSumator.csprojAssemblyReference.cache
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Ascii Sumator\AsciiSumator\AsciiSumator\obj\Debug\netcoreapp2.1\AsciiSumator.csproj.CoreCompileInputs.cache
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Ascii Sumator\AsciiSumator\AsciiSumator\obj\Debug\netcoreapp2.1\AsciiSumator.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Ascii Sumator\AsciiSumator\AsciiSumator\obj\Debug\netcoreapp2.1\AsciiSumator.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Ascii Sumator\AsciiSumator\AsciiSumator\obj\Debug\netcoreapp2.1\AsciiSumator.dll
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Ascii Sumator\AsciiSumator\AsciiSumator\obj\Debug\netcoreapp2.1\AsciiSumator.pdb

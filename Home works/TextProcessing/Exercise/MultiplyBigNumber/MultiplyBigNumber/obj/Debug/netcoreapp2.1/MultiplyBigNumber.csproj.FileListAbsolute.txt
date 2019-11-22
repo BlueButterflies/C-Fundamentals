@@ -1,0 +1,11 @@
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Exercise\Multiply Big Number\MultiplyBigNumber\MultiplyBigNumber\bin\Debug\netcoreapp2.1\MultiplyBigNumber.deps.json
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Exercise\Multiply Big Number\MultiplyBigNumber\MultiplyBigNumber\bin\Debug\netcoreapp2.1\MultiplyBigNumber.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Exercise\Multiply Big Number\MultiplyBigNumber\MultiplyBigNumber\bin\Debug\netcoreapp2.1\MultiplyBigNumber.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Exercise\Multiply Big Number\MultiplyBigNumber\MultiplyBigNumber\bin\Debug\netcoreapp2.1\MultiplyBigNumber.dll
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Exercise\Multiply Big Number\MultiplyBigNumber\MultiplyBigNumber\bin\Debug\netcoreapp2.1\MultiplyBigNumber.pdb
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Exercise\Multiply Big Number\MultiplyBigNumber\MultiplyBigNumber\obj\Debug\netcoreapp2.1\MultiplyBigNumber.csproj.CoreCompileInputs.cache
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Exercise\Multiply Big Number\MultiplyBigNumber\MultiplyBigNumber\obj\Debug\netcoreapp2.1\MultiplyBigNumber.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Exercise\Multiply Big Number\MultiplyBigNumber\MultiplyBigNumber\obj\Debug\netcoreapp2.1\MultiplyBigNumber.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Exercise\Multiply Big Number\MultiplyBigNumber\MultiplyBigNumber\obj\Debug\netcoreapp2.1\MultiplyBigNumber.dll
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Exercise\Multiply Big Number\MultiplyBigNumber\MultiplyBigNumber\obj\Debug\netcoreapp2.1\MultiplyBigNumber.pdb
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Exercise\Multiply Big Number\MultiplyBigNumber\MultiplyBigNumber\obj\Debug\netcoreapp2.1\MultiplyBigNumber.csprojAssemblyReference.cache

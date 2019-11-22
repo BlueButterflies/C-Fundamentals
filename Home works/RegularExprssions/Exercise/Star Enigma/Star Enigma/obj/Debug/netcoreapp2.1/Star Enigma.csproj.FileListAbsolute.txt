@@ -1,0 +1,11 @@
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Regular Expressions\Exercise\Star Enigma\Star Enigma\Star Enigma\bin\Debug\netcoreapp2.1\Star Enigma.deps.json
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Regular Expressions\Exercise\Star Enigma\Star Enigma\Star Enigma\bin\Debug\netcoreapp2.1\Star Enigma.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Regular Expressions\Exercise\Star Enigma\Star Enigma\Star Enigma\bin\Debug\netcoreapp2.1\Star Enigma.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Regular Expressions\Exercise\Star Enigma\Star Enigma\Star Enigma\bin\Debug\netcoreapp2.1\Star Enigma.dll
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Regular Expressions\Exercise\Star Enigma\Star Enigma\Star Enigma\bin\Debug\netcoreapp2.1\Star Enigma.pdb
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Regular Expressions\Exercise\Star Enigma\Star Enigma\Star Enigma\obj\Debug\netcoreapp2.1\Star Enigma.csprojAssemblyReference.cache
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Regular Expressions\Exercise\Star Enigma\Star Enigma\Star Enigma\obj\Debug\netcoreapp2.1\Star Enigma.csproj.CoreCompileInputs.cache
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Regular Expressions\Exercise\Star Enigma\Star Enigma\Star Enigma\obj\Debug\netcoreapp2.1\Star Enigma.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Regular Expressions\Exercise\Star Enigma\Star Enigma\Star Enigma\obj\Debug\netcoreapp2.1\Star Enigma.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Regular Expressions\Exercise\Star Enigma\Star Enigma\Star Enigma\obj\Debug\netcoreapp2.1\Star Enigma.dll
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Regular Expressions\Exercise\Star Enigma\Star Enigma\Star Enigma\obj\Debug\netcoreapp2.1\Star Enigma.pdb

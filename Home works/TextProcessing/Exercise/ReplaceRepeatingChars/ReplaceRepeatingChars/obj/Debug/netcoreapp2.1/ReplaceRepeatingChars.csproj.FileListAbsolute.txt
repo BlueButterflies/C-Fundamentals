@@ -1,0 +1,11 @@
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Exercise\Replace Repeating Chars\ReplaceRepeatingChars\ReplaceRepeatingChars\bin\Debug\netcoreapp2.1\ReplaceRepeatingChars.deps.json
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Exercise\Replace Repeating Chars\ReplaceRepeatingChars\ReplaceRepeatingChars\bin\Debug\netcoreapp2.1\ReplaceRepeatingChars.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Exercise\Replace Repeating Chars\ReplaceRepeatingChars\ReplaceRepeatingChars\bin\Debug\netcoreapp2.1\ReplaceRepeatingChars.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Exercise\Replace Repeating Chars\ReplaceRepeatingChars\ReplaceRepeatingChars\bin\Debug\netcoreapp2.1\ReplaceRepeatingChars.dll
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Exercise\Replace Repeating Chars\ReplaceRepeatingChars\ReplaceRepeatingChars\bin\Debug\netcoreapp2.1\ReplaceRepeatingChars.pdb
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Exercise\Replace Repeating Chars\ReplaceRepeatingChars\ReplaceRepeatingChars\obj\Debug\netcoreapp2.1\ReplaceRepeatingChars.csprojAssemblyReference.cache
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Exercise\Replace Repeating Chars\ReplaceRepeatingChars\ReplaceRepeatingChars\obj\Debug\netcoreapp2.1\ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Exercise\Replace Repeating Chars\ReplaceRepeatingChars\ReplaceRepeatingChars\obj\Debug\netcoreapp2.1\ReplaceRepeatingChars.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Exercise\Replace Repeating Chars\ReplaceRepeatingChars\ReplaceRepeatingChars\obj\Debug\netcoreapp2.1\ReplaceRepeatingChars.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Exercise\Replace Repeating Chars\ReplaceRepeatingChars\ReplaceRepeatingChars\obj\Debug\netcoreapp2.1\ReplaceRepeatingChars.dll
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Exercise\Replace Repeating Chars\ReplaceRepeatingChars\ReplaceRepeatingChars\obj\Debug\netcoreapp2.1\ReplaceRepeatingChars.pdb

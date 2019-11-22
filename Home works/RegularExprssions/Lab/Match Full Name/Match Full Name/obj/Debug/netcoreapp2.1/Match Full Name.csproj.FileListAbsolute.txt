@@ -1,0 +1,11 @@
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Regular Expressions\Lab\Match Full Name\Match Full Name\Match Full Name\bin\Debug\netcoreapp2.1\Match Full Name.deps.json
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Regular Expressions\Lab\Match Full Name\Match Full Name\Match Full Name\bin\Debug\netcoreapp2.1\Match Full Name.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Regular Expressions\Lab\Match Full Name\Match Full Name\Match Full Name\bin\Debug\netcoreapp2.1\Match Full Name.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Regular Expressions\Lab\Match Full Name\Match Full Name\Match Full Name\bin\Debug\netcoreapp2.1\Match Full Name.dll
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Regular Expressions\Lab\Match Full Name\Match Full Name\Match Full Name\bin\Debug\netcoreapp2.1\Match Full Name.pdb
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Regular Expressions\Lab\Match Full Name\Match Full Name\Match Full Name\obj\Debug\netcoreapp2.1\Match Full Name.csprojAssemblyReference.cache
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Regular Expressions\Lab\Match Full Name\Match Full Name\Match Full Name\obj\Debug\netcoreapp2.1\Match Full Name.csproj.CoreCompileInputs.cache
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Regular Expressions\Lab\Match Full Name\Match Full Name\Match Full Name\obj\Debug\netcoreapp2.1\Match Full Name.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Regular Expressions\Lab\Match Full Name\Match Full Name\Match Full Name\obj\Debug\netcoreapp2.1\Match Full Name.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Regular Expressions\Lab\Match Full Name\Match Full Name\Match Full Name\obj\Debug\netcoreapp2.1\Match Full Name.dll
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Regular Expressions\Lab\Match Full Name\Match Full Name\Match Full Name\obj\Debug\netcoreapp2.1\Match Full Name.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dsvk2\Desktop\SoftUni\Advertisement Message\AdvertisementMessage\AdvertisementMessage\obj\Debug\netcoreapp2.1\AdvertisementMessage.csprojAssemblyReference.cache
+C:\Users\Dsvk2\Desktop\SoftUni\Advertisement Message\AdvertisementMessage\AdvertisementMessage\obj\Debug\netcoreapp2.1\AdvertisementMessage.csproj.CoreCompileInputs.cache
+C:\Users\Dsvk2\Desktop\SoftUni\Advertisement Message\AdvertisementMessage\AdvertisementMessage\obj\Debug\netcoreapp2.1\AdvertisementMessage.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\SoftUni\Advertisement Message\AdvertisementMessage\AdvertisementMessage\obj\Debug\netcoreapp2.1\AdvertisementMessage.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\SoftUni\Advertisement Message\AdvertisementMessage\AdvertisementMessage\bin\Debug\netcoreapp2.1\AdvertisementMessage.deps.json
+C:\Users\Dsvk2\Desktop\SoftUni\Advertisement Message\AdvertisementMessage\AdvertisementMessage\bin\Debug\netcoreapp2.1\AdvertisementMessage.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\SoftUni\Advertisement Message\AdvertisementMessage\AdvertisementMessage\bin\Debug\netcoreapp2.1\AdvertisementMessage.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\SoftUni\Advertisement Message\AdvertisementMessage\AdvertisementMessage\bin\Debug\netcoreapp2.1\AdvertisementMessage.dll
+C:\Users\Dsvk2\Desktop\SoftUni\Advertisement Message\AdvertisementMessage\AdvertisementMessage\bin\Debug\netcoreapp2.1\AdvertisementMessage.pdb
+C:\Users\Dsvk2\Desktop\SoftUni\Advertisement Message\AdvertisementMessage\AdvertisementMessage\obj\Debug\netcoreapp2.1\AdvertisementMessage.dll
+C:\Users\Dsvk2\Desktop\SoftUni\Advertisement Message\AdvertisementMessage\AdvertisementMessage\obj\Debug\netcoreapp2.1\AdvertisementMessage.pdb

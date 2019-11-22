@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetMvcDbExemple", "AspNetMvcDbExemple\AspNetMvcDbExemple.csproj", "{127717F4-9C5D-4472-A024-8AAB41C0E853}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{127717F4-9C5D-4472-A024-8AAB41C0E853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{127717F4-9C5D-4472-A024-8AAB41C0E853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{127717F4-9C5D-4472-A024-8AAB41C0E853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{127717F4-9C5D-4472-A024-8AAB41C0E853}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67994531-AF38-4DB4-B781-8D7F0A1F7FE8}
+	EndGlobalSection
+EndGlobal

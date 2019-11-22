@@ -1,0 +1,11 @@
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Morse Code Translator\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\netcoreapp2.1\MorseCodeTranslator.deps.json
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Morse Code Translator\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\netcoreapp2.1\MorseCodeTranslator.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Morse Code Translator\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\netcoreapp2.1\MorseCodeTranslator.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Morse Code Translator\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\netcoreapp2.1\MorseCodeTranslator.dll
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Morse Code Translator\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\netcoreapp2.1\MorseCodeTranslator.pdb
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Morse Code Translator\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\netcoreapp2.1\MorseCodeTranslator.csprojAssemblyReference.cache
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Morse Code Translator\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\netcoreapp2.1\MorseCodeTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Morse Code Translator\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\netcoreapp2.1\MorseCodeTranslator.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Morse Code Translator\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\netcoreapp2.1\MorseCodeTranslator.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Morse Code Translator\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\netcoreapp2.1\MorseCodeTranslator.dll
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Morse Code Translator\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\netcoreapp2.1\MorseCodeTranslator.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Substring\⦁Substring\⦁Substring\bin\Debug\netcoreapp2.1\⦁Substring.deps.json
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Substring\⦁Substring\⦁Substring\bin\Debug\netcoreapp2.1\⦁Substring.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Substring\⦁Substring\⦁Substring\bin\Debug\netcoreapp2.1\⦁Substring.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Substring\⦁Substring\⦁Substring\bin\Debug\netcoreapp2.1\⦁Substring.dll
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Substring\⦁Substring\⦁Substring\bin\Debug\netcoreapp2.1\⦁Substring.pdb
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Substring\⦁Substring\⦁Substring\obj\Debug\netcoreapp2.1\⦁Substring.csprojAssemblyReference.cache
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Substring\⦁Substring\⦁Substring\obj\Debug\netcoreapp2.1\⦁Substring.csproj.CoreCompileInputs.cache
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Substring\⦁Substring\⦁Substring\obj\Debug\netcoreapp2.1\⦁Substring.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Substring\⦁Substring\⦁Substring\obj\Debug\netcoreapp2.1\⦁Substring.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Substring\⦁Substring\⦁Substring\obj\Debug\netcoreapp2.1\⦁Substring.dll
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Substring\⦁Substring\⦁Substring\obj\Debug\netcoreapp2.1\⦁Substring.pdb

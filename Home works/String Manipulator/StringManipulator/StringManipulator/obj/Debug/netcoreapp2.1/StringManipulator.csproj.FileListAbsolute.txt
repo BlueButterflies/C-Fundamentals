@@ -1,0 +1,11 @@
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Demo final exam 21- 07- 2019\String Manipulator\StringManipulator\StringManipulator\bin\Debug\netcoreapp2.1\StringManipulator.deps.json
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Demo final exam 21- 07- 2019\String Manipulator\StringManipulator\StringManipulator\bin\Debug\netcoreapp2.1\StringManipulator.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Demo final exam 21- 07- 2019\String Manipulator\StringManipulator\StringManipulator\bin\Debug\netcoreapp2.1\StringManipulator.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Demo final exam 21- 07- 2019\String Manipulator\StringManipulator\StringManipulator\bin\Debug\netcoreapp2.1\StringManipulator.dll
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Demo final exam 21- 07- 2019\String Manipulator\StringManipulator\StringManipulator\bin\Debug\netcoreapp2.1\StringManipulator.pdb
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Demo final exam 21- 07- 2019\String Manipulator\StringManipulator\StringManipulator\obj\Debug\netcoreapp2.1\StringManipulator.csprojAssemblyReference.cache
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Demo final exam 21- 07- 2019\String Manipulator\StringManipulator\StringManipulator\obj\Debug\netcoreapp2.1\StringManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Demo final exam 21- 07- 2019\String Manipulator\StringManipulator\StringManipulator\obj\Debug\netcoreapp2.1\StringManipulator.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Demo final exam 21- 07- 2019\String Manipulator\StringManipulator\StringManipulator\obj\Debug\netcoreapp2.1\StringManipulator.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Demo final exam 21- 07- 2019\String Manipulator\StringManipulator\StringManipulator\obj\Debug\netcoreapp2.1\StringManipulator.dll
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Demo final exam 21- 07- 2019\String Manipulator\StringManipulator\StringManipulator\obj\Debug\netcoreapp2.1\StringManipulator.pdb

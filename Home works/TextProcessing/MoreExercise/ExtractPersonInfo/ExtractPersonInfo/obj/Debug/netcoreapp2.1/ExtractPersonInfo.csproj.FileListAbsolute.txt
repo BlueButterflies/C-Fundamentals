@@ -1,0 +1,11 @@
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Extract Person Information\ExtractPersonInfo\ExtractPersonInfo\bin\Debug\netcoreapp2.1\ExtractPersonInfo.deps.json
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Extract Person Information\ExtractPersonInfo\ExtractPersonInfo\bin\Debug\netcoreapp2.1\ExtractPersonInfo.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Extract Person Information\ExtractPersonInfo\ExtractPersonInfo\bin\Debug\netcoreapp2.1\ExtractPersonInfo.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Extract Person Information\ExtractPersonInfo\ExtractPersonInfo\bin\Debug\netcoreapp2.1\ExtractPersonInfo.dll
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Extract Person Information\ExtractPersonInfo\ExtractPersonInfo\bin\Debug\netcoreapp2.1\ExtractPersonInfo.pdb
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Extract Person Information\ExtractPersonInfo\ExtractPersonInfo\obj\Debug\netcoreapp2.1\ExtractPersonInfo.csprojAssemblyReference.cache
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Extract Person Information\ExtractPersonInfo\ExtractPersonInfo\obj\Debug\netcoreapp2.1\ExtractPersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Extract Person Information\ExtractPersonInfo\ExtractPersonInfo\obj\Debug\netcoreapp2.1\ExtractPersonInfo.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Extract Person Information\ExtractPersonInfo\ExtractPersonInfo\obj\Debug\netcoreapp2.1\ExtractPersonInfo.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Extract Person Information\ExtractPersonInfo\ExtractPersonInfo\obj\Debug\netcoreapp2.1\ExtractPersonInfo.dll
+C:\Users\Dsvk2\Desktop\SoftUni-Fundamentals 2019\Text Processing\More Exercise\Extract Person Information\ExtractPersonInfo\ExtractPersonInfo\obj\Debug\netcoreapp2.1\ExtractPersonInfo.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Reverse Strings\⦁ Reverse Strings\⦁ Reverse Strings\bin\Debug\netcoreapp2.1\⦁ Reverse Strings.deps.json
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Reverse Strings\⦁ Reverse Strings\⦁ Reverse Strings\bin\Debug\netcoreapp2.1\⦁ Reverse Strings.runtimeconfig.json
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Reverse Strings\⦁ Reverse Strings\⦁ Reverse Strings\bin\Debug\netcoreapp2.1\⦁ Reverse Strings.runtimeconfig.dev.json
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Reverse Strings\⦁ Reverse Strings\⦁ Reverse Strings\bin\Debug\netcoreapp2.1\⦁ Reverse Strings.dll
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Reverse Strings\⦁ Reverse Strings\⦁ Reverse Strings\bin\Debug\netcoreapp2.1\⦁ Reverse Strings.pdb
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Reverse Strings\⦁ Reverse Strings\⦁ Reverse Strings\obj\Debug\netcoreapp2.1\⦁ Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Reverse Strings\⦁ Reverse Strings\⦁ Reverse Strings\obj\Debug\netcoreapp2.1\⦁ Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Reverse Strings\⦁ Reverse Strings\⦁ Reverse Strings\obj\Debug\netcoreapp2.1\⦁ Reverse Strings.AssemblyInfo.cs
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Reverse Strings\⦁ Reverse Strings\⦁ Reverse Strings\obj\Debug\netcoreapp2.1\⦁ Reverse Strings.dll
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Reverse Strings\⦁ Reverse Strings\⦁ Reverse Strings\obj\Debug\netcoreapp2.1\⦁ Reverse Strings.pdb
+C:\Users\Dsvk2\Desktop\SoftUni\Text Processing Lab\Reverse Strings\⦁ Reverse Strings\⦁ Reverse Strings\obj\Debug\netcoreapp2.1\⦁ Reverse Strings.csprojAssemblyReference.cache

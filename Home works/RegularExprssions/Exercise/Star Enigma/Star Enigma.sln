@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Star Enigma", "Star Enigma\Star Enigma.csproj", "{8C6390E2-F167-4693-91A8-F8B7058144EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C6390E2-F167-4693-91A8-F8B7058144EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6390E2-F167-4693-91A8-F8B7058144EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6390E2-F167-4693-91A8-F8B7058144EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6390E2-F167-4693-91A8-F8B7058144EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B980CD1C-9813-4088-AC5A-2D443F7BE835}
+	EndGlobalSection
+EndGlobal

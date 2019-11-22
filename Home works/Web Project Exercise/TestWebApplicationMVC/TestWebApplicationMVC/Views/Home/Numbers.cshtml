@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Numbers";
+}
+
+<form method="post">
+    Start: <input type="number" value="" name="start" />
+    End: <input type="number" value="" name="end" />
+    Submit: <input type="submit" />
+</form>
+
+<div class="text-center">
+<h1 class="display-4">This is Numbers</h1>
+<ul>
+
+    @if (ViewBag.Numbers != null && ViewBag.Numbers.Count > 0)
+    {
+        <ul class="numbers">
+
+
+            @foreach (var nums in ViewBag.Numbers)
+            {
+                    <li>
+
+                        @nums
+
+                    </li>
+            }
+        </ul>
+    }
+    else
+    {
+        <div>
+
+            Don't have numbres!
+
+        </div>
+    }
+</ul>
+</div>
+
